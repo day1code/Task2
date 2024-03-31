@@ -1,0 +1,30 @@
+h1{
+    text-align: center;  
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 89, 255);
+}
+
+.cont{
+    margin-bottom: 3px;
+    border: 1px solid rgb(226, 43, 43);
+    padding: 60px;
+}
+
+.mid{
+    margin-bottom: 3px;
+}
+
+.content {
+    border: 1px solid blueviolet;
+    width: 25%;
+    float: left;
+}
+
+.main-content {
+    border: 1px solid blueviolet;
+    width: 48.7%;
+    float: left;
+    margin-left: 0.4%;
+    margin-right: 0.4%;
+}
+
